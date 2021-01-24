@@ -18,6 +18,6 @@ Voice commands:
 Known issues:
 Sometimes the program will start but not render anything. You can usually catch this bug right away by looking to see if the white "made with unity" text appears. If you hear a hummingbird but don't see anything, close the program and restart.
 
-## Notes
+## Spatial Audio in XR Notes
 The basic idea is to show an application of spatial audio.  The Hololens has an spatial audio engine that uses HRTF, so the question is how to give a real visual and audio impression of objects around you in space.  Virtual hummingbirds are great because of their ambient humming put through spatial audio can be understood by the user as accelleration, position and velocity.  The other aspects of gaze and voice recognition complete the experience.
 
